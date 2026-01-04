@@ -1,0 +1,18 @@
+[2025-08-09 14:56:28] Khởi động chương trình. Số dư USDT ban đầu: 2.99 USDT
+[2025-08-09 14:56:29] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường ETH-USDT (30m): thị trường đang Bullish
+Giá hiện tại: 4169.53000 USDT
+RSI: 77.02
+ATR (%): 0.73%
+Số dư USDT hiện tại: 2.99210 USDT
+[2025-08-09 14:56:30] Thiết lập đòn bẩy x100.0 cho lệnh LONG ETH-USDT thành công.
+[2025-08-09 14:56:30] Xu hướng Bullish. Đặt lệnh LONG 0.011991759263034444 ETH-USDT tại giá 4169.53000, SL: 4127.83470, TP: 4294.61590
+[2025-08-09 15:01:32] Đang có lệnh LONG ETH-USDT giá entry 4169.53 và giá hiện tại: 4169.89000 USDT, với pnl: 0.92 % 
+[2025-08-09 15:06:44] Đang có lệnh LONG ETH-USDT giá entry 4169.53 và giá hiện tại: 4173.95000 USDT, với pnl: 11.80 % 
+[2025-08-09 15:11:56] Đang có lệnh LONG ETH-USDT giá entry 4169.53 và giá hiện tại: 4176.29000 USDT, với pnl: 17.41 % 
+[2025-08-09 15:16:57] Đang có lệnh LONG ETH-USDT giá entry 4169.53 và giá hiện tại: 4173.72000 USDT, với pnl: 9.70 % 
+[2025-08-09 15:21:59] Đang có lệnh LONG ETH-USDT giá entry 4169.53 và giá hiện tại: 4174.86000 USDT, với pnl: 13.37 % 
+[2025-08-09 15:27:00] Đang có lệnh LONG ETH-USDT giá entry 4169.53 và giá hiện tại: 4177.71000 USDT, với pnl: 19.45 % 
+[2025-08-09 15:32:12] Đang có lệnh LONG ETH-USDT giá entry 4169.53 và giá hiện tại: 4182.60000 USDT, với pnl: 30.66 % 
+[2025-08-09 15:37:14] Đang có lệnh LONG ETH-USDT giá entry 4169.53 và giá hiện tại: 4183.88000 USDT, với pnl: 34.46 % 
+[2025-08-09 15:42:26] Đang có lệnh LONG ETH-USDT giá entry 4169.53 và giá hiện tại: 4188.20000 USDT, với pnl: 44.86 % 

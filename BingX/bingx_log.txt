@@ -1,0 +1,133 @@
+[2025-09-13 15:30:31] ------------Program start---------------------/n/n
+[2025-09-13 15:30:52] Khởi động chương trình. Số dư USDT ban đầu: 27.82 USDT
+[2025-09-13 15:30:53] --------------END PROGRAM----------------------
+[2025-09-13 15:34:58] Get list coins success.
+[2025-09-13 15:34:58] ------------Program start--------------------
+[2025-09-13 15:34:58] Khởi động chương trình. Số dư USDT ban đầu: 27.82 USDT
+[2025-09-13 15:34:59] --------------END PROGRAM----------------------
+[2025-09-13 15:38:41] Get list coins success.
+[2025-09-13 15:38:41] ------------Program start--------------------
+[2025-09-13 15:39:03] Khởi động chương trình. Số dư USDT ban đầu: 27.82 USDT
+[2025-09-13 15:39:03] Starting process for ETH-USDT with amount=0.5, leverage=100.0...
+[2025-09-13 15:39:03] Starting process for BNB-USDT with amount=0.5, leverage=50.0...
+[2025-09-13 15:39:05] Lỗi: cannot access local variable 'balance' where it is not associated with a value
+[2025-09-13 15:39:05] Lỗi: cannot access local variable 'balance' where it is not associated with a value
+[2025-09-13 15:43:10] Get list coins success.
+[2025-09-13 15:43:10] ------------Program start--------------------
+[2025-09-13 15:43:10] Khởi động chương trình. Số dư USDT ban đầu: 27.82 USDT
+[2025-09-13 15:43:11] Starting process for BNB-USDT with amount=0.5, leverage=50.0...
+[2025-09-13 15:43:11] Starting process for ETH-USDT with amount=0.5, leverage=100.0...
+[2025-09-13 15:43:13] Lỗi: cannot access local variable 'balance' where it is not associated with a value
+[2025-09-13 15:43:13] Lỗi: cannot access local variable 'balance' where it is not associated with a value
+[2025-09-13 15:45:24] Get list coins success.
+[2025-09-13 15:45:24] ------------Program start--------------------
+[2025-09-13 15:45:24] Khởi động chương trình. Số dư USDT ban đầu: 27.82 USDT
+[2025-09-13 15:45:25] Starting process for BNB-USDT with amount=0.5, leverage=50.0...
+[2025-09-13 15:45:25] Starting process for ETH-USDT with amount=0.5, leverage=100.0...
+[2025-09-13 15:45:25] --------------END PROGRAM----------------------
+[2025-09-13 15:47:48] Get list coins success.
+[2025-09-13 15:47:48] ------------Program start--------------------
+[2025-09-13 15:47:48] Khởi động chương trình. Số dư USDT ban đầu: 27.82 USDT
+[2025-09-13 15:47:49] Starting process for ETH-USDT with amount=0.5, leverage=100.0...
+[2025-09-13 15:47:49] Starting process for BNB-USDT with amount=0.5, leverage=50.0...
+[2025-09-13 15:47:51] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường ETH-USDT (1h): thị trường đang Bearish
+Giá hiện tại: 4721.89000 USDT
+
+[2025-09-13 15:47:51] Lỗi: cannot access local variable 'balance' where it is not associated with a value
+[2025-09-13 15:47:51] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường BNB-USDT (1h): thị trường đang Bearish
+Giá hiện tại: 927.05000 USDT
+
+[2025-09-13 15:47:51] Lỗi: cannot access local variable 'balance' where it is not associated with a value
+[2025-09-13 15:49:23] Get list coins success.
+[2025-09-13 15:49:23] ------------Program start--------------------
+[2025-09-13 15:49:45] Khởi động chương trình. Số dư USDT ban đầu: 27.82 USDT
+[2025-09-13 15:49:45] Starting process for BNB-USDT with amount=0.5, leverage=50.0...
+[2025-09-13 15:49:45] Starting process for ETH-USDT with amount=0.5, leverage=100.0...
+[2025-09-13 15:49:48] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường ETH-USDT (1h): thị trường đang Bearish
+Giá hiện tại: 4719.51000 USDT
+
+[2025-09-13 15:49:48] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường BNB-USDT (1h): thị trường đang Bearish
+Giá hiện tại: 927.09000 USDT
+
+[2025-09-13 15:49:48] Thiết lập đòn bẩy x100.0 cho lệnh SHORT ETH-USDT thành công.
+[2025-09-13 15:49:48] Lỗi: name 'SYMBOL' is not defined
+[2025-09-13 15:49:48] Thiết lập đòn bẩy x50.0 cho lệnh SHORT BNB-USDT thành công.
+[2025-09-13 15:49:48] Lỗi: name 'SYMBOL' is not defined
+[2025-09-13 15:51:52] Get list coins success.
+[2025-09-13 15:51:52] ------------Program start--------------------
+[2025-09-13 15:51:52] Khởi động chương trình. Số dư USDT ban đầu: 27.82 USDT
+[2025-09-13 15:51:53] Starting process for ETH-USDT with amount=0.5, leverage=100.0...
+[2025-09-13 15:51:53] Starting process for BNB-USDT with amount=0.5, leverage=50.0...
+[2025-09-13 15:51:55] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường ETH-USDT (1h): thị trường đang Bearish
+Giá hiện tại: 4719.50000 USDT
+
+[2025-09-13 15:51:55] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường BNB-USDT (1h): thị trường đang Bearish
+Giá hiện tại: 927.07000 USDT
+
+[2025-09-13 15:51:55] Thiết lập đòn bẩy x100.0 cho lệnh SHORT ETH-USDT thành công.
+[2025-09-13 15:51:55] Thiết lập đòn bẩy x50.0 cho lệnh SHORT BNB-USDT thành công.
+[2025-09-13 15:51:56] Xu hướng Bearish. Đặt lệnh SHORT 0.010594342621040365 ETH-USDT tại giá 4719.50000, SL: 4766.69500, TP: 4577.91500
+[2025-09-13 15:51:56] Xu hướng Bearish. Đặt lệnh SHORT 0.026966679970228783 BNB-USDT tại giá 927.07000, SL: 945.61140, TP: 871.44580
+[2025-09-13 15:56:57] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4726.50000 USDT, với pnl: -20.93 % 
+[2025-09-13 15:56:58] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 927.51000 USDT, với pnl: -2.33 % 
+[2025-09-13 16:01:59] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4725.52000 USDT, với pnl: -19.19 % 
+[2025-09-13 16:01:59] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 926.52000 USDT, với pnl: 3.72 % 
+[2025-09-13 16:07:11] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 927.28000 USDT, với pnl: -0.97 % 
+[2025-09-13 16:07:11] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4726.26000 USDT, với pnl: -21.00 % 
+[2025-09-13 16:12:24] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4725.13000 USDT, với pnl: -18.22 % 
+[2025-09-13 16:12:24] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 927.60000 USDT, với pnl: -3.96 % 
+[2025-09-13 16:17:37] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 928.12000 USDT, với pnl: -8.06 % 
+[2025-09-13 16:17:37] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4723.31000 USDT, với pnl: -12.17 % 
+[2025-09-13 16:22:50] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4719.78000 USDT, với pnl: -1.72 % 
+[2025-09-13 16:22:50] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 928.51000 USDT, với pnl: -11.89 % 
+[2025-09-13 16:28:03] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 930.64000 USDT, với pnl: -28.23 % 
+[2025-09-13 16:28:03] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4720.57000 USDT, với pnl: -3.52 % 
+[2025-09-13 16:33:05] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 931.00000 USDT, với pnl: -31.39 % 
+[2025-09-13 16:33:05] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4719.86000 USDT, với pnl: -1.40 % 
+[2025-09-13 16:38:07] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4721.83000 USDT, với pnl: -7.53 % 
+[2025-09-13 16:38:07] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 931.95000 USDT, với pnl: -38.86 % 
+[2025-09-13 16:43:19] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 932.51000 USDT, với pnl: -44.33 % 
+[2025-09-13 16:43:19] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4724.01000 USDT, với pnl: -14.85 % 
+[2025-09-13 16:48:31] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 934.25000 USDT, với pnl: -58.45 % 
+[2025-09-13 16:48:31] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4726.13000 USDT, với pnl: -22.12 % 
+[2025-09-13 16:53:33] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4726.68000 USDT, với pnl: -24.44 % 
+[2025-09-13 16:53:33] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 935.13000 USDT, với pnl: -64.06 % 
+[2025-09-13 16:58:56] Đang có lệnh SHORT BNB-USDT giá entry 927.06 và giá hiện tại: 939.41000 USDT, với pnl: -98.20 % 
+[2025-09-13 16:58:56] Đang có lệnh SHORT ETH-USDT giá entry 4719.48 và giá hiện tại: 4730.08000 USDT, với pnl: -33.68 % 
+[2025-09-13 16:59:12] Dừng chương trình.
+[2025-09-13 16:59:35] Lệnh SHORT đã được đóng do dừng chương trình. Với lợi nhuận -33.68 % và số dư USDT cuối cùng: 27.79 USDT
+[2025-09-13 16:59:36] Lệnh SHORT đã được đóng do dừng chương trình. Với lợi nhuận -98.20 % và số dư USDT cuối cùng: 27.79 USDT
+[2025-09-13 17:10:06] Get list coins success.
+[2025-09-13 17:10:06] ------------Program start--------------------
+[2025-09-13 17:10:28] Khởi động chương trình. Số dư USDT ban đầu: 27.23 USDT
+[2025-09-13 17:10:28] Starting process for ETH-USDT with amount=0.5, leverage=100.0...
+[2025-09-13 17:10:28] Starting process for BNB-USDT with amount=0.5, leverage=50.0...
+[2025-09-13 17:10:52] Lỗi: 'Close'
+[2025-09-13 17:10:52] Lỗi: 'Close'
+[2025-09-13 17:11:38] Get list coins success.
+[2025-09-13 17:11:38] ------------Program start--------------------
+[2025-09-13 17:11:39] Khởi động chương trình. Số dư USDT ban đầu: 27.23 USDT
+[2025-09-13 17:11:39] Starting process for ETH-USDT with amount=0.5, leverage=100.0...
+[2025-09-13 17:11:39] Starting process for BNB-USDT with amount=0.5, leverage=50.0...
+[2025-09-13 17:12:04] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường ETH-USDT (1h): thị trường đang Up
+Giá hiện tại: 4736.61000 USDT
+
+[2025-09-13 17:12:04] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường BNB-USDT (1h): thị trường đang Up
+Giá hiện tại: 940.90000 USDT
+
+[2025-09-13 17:12:04] Thiết lập đòn bẩy x100.0 cho lệnh LONG ETH-USDT thành công.
+[2025-09-13 17:12:04] Thiết lập đòn bẩy x50.0 cho lệnh LONG BNB-USDT thành công.
+[2025-09-13 17:12:05] Xu hướng Up. Đặt lệnh LONG 0.01055607280312291 ETH-USDT tại giá 4736.61000, SL: 4689.24390, TP: 4878.70830
+[2025-09-13 17:12:05] Xu hướng Up. Đặt lệnh LONG 0.026570305027101712 BNB-USDT tại giá 940.90000, SL: 922.08200, TP: 997.35400
+[2025-09-13 17:17:17] Đang có lệnh LONG BNB-USDT giá entry 940.94 và giá hiện tại: 939.77000 USDT, với pnl: -9.32 % 
+[2025-09-13 17:17:17] Đang có lệnh LONG ETH-USDT giá entry 4736.63 và giá hiện tại: 4734.52000 USDT, với pnl: -2.81 % 
+[2025-09-13 17:22:29] Đang có lệnh LONG ETH-USDT giá entry 4736.63 và giá hiện tại: 4726.27000 USDT, với pnl: -10.85 % 
+[2025-09-13 17:22:29] Đang có lệnh LONG BNB-USDT giá entry 940.94 và giá hiện tại: 939.97000 USDT, với pnl: -8.41 % 

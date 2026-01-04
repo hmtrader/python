@@ -1,0 +1,713 @@
+[2025-07-29 08:00:47] Khởi động chương trình. Số dư USDT ban đầu: 1.72 USDT
+[2025-07-29 08:00:48] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Bullish (Tăng nhẹ)
+Giá hiện tại: 0.09060 USDT
+RSI: 51.13
+ATR (%): 2.05%
+Số dư USDT hiện tại: 1.71790 USDT
+[2025-07-29 08:00:48] Thiết lập đòn bẩy x15 cho SPK-USDT thành công.
+[2025-07-29 08:00:49] Xu hướng Bullish (Tăng nhẹ). Đặt lệnh MUA 33.11258278145696 SPK-USDT tại giá 0.09060, SL: 0.08607, TP: 0.10419
+[2025-07-29 08:06:00] Giá SPK-USDT hiện tại: 0.09022 USDT, pnl: -11.58 % 
+[2025-07-29 08:11:12] Giá SPK-USDT hiện tại: 0.08966 USDT, pnl: -21.25 % 
+[2025-07-29 08:16:24] Giá SPK-USDT hiện tại: 0.09015 USDT, pnl: -14.14 % 
+[2025-07-29 08:21:24] Giá SPK-USDT hiện tại: 0.09052 USDT, pnl: -4.05 % 
+[2025-07-29 08:26:25] Giá SPK-USDT hiện tại: 0.09012 USDT, pnl: -12.85 % 
+[2025-07-29 08:31:26] Giá SPK-USDT hiện tại: 0.09039 USDT, pnl: -6.63 % 
+[2025-07-29 08:36:26] Giá SPK-USDT hiện tại: 0.09011 USDT, pnl: -14.76 % 
+[2025-07-29 08:41:38] Giá SPK-USDT hiện tại: 0.09007 USDT, pnl: -13.77 % 
+[2025-07-29 08:46:50] Giá SPK-USDT hiện tại: 0.09053 USDT, pnl: -3.10 % 
+[2025-07-29 08:52:02] Giá SPK-USDT hiện tại: 0.09058 USDT, pnl: -2.25 % 
+[2025-07-29 08:57:02] Giá SPK-USDT hiện tại: 0.09006 USDT, pnl: -14.13 % 
+[2025-07-29 09:02:14] Giá SPK-USDT hiện tại: 0.09009 USDT, pnl: -13.06 % 
+[2025-07-29 09:07:26] Giá SPK-USDT hiện tại: 0.09060 USDT, pnl: -1.78 % 
+[2025-07-29 09:12:27] Giá SPK-USDT hiện tại: 0.09004 USDT, pnl: -14.94 % 
+[2025-07-29 09:17:38] Giá SPK-USDT hiện tại: 0.09045 USDT, pnl: -5.55 % 
+[2025-07-29 09:22:39] Giá SPK-USDT hiện tại: 0.09052 USDT, pnl: -3.58 % 
+[2025-07-29 09:27:51] Giá SPK-USDT hiện tại: 0.08996 USDT, pnl: -17.23 % 
+[2025-07-29 09:33:03] Giá SPK-USDT hiện tại: 0.09032 USDT, pnl: -8.31 % 
+[2025-07-29 09:38:15] Giá SPK-USDT hiện tại: 0.09080 USDT, pnl: 1.77 % 
+[2025-07-29 09:43:26] Giá SPK-USDT hiện tại: 0.09051 USDT, pnl: -4.74 % 
+[2025-07-29 09:48:38] Giá SPK-USDT hiện tại: 0.09048 USDT, pnl: -6.24 % 
+[2025-07-29 09:53:50] Giá SPK-USDT hiện tại: 0.08993 USDT, pnl: -17.06 % 
+[2025-07-29 09:58:50] Giá SPK-USDT hiện tại: 0.08957 USDT, pnl: -26.84 % 
+[2025-07-29 10:04:02] Giá SPK-USDT hiện tại: 0.08946 USDT, pnl: -29.34 % 
+[2025-07-29 10:09:13] Giá SPK-USDT hiện tại: 0.08967 USDT, pnl: -21.34 % 
+[2025-07-29 10:14:25] Giá SPK-USDT hiện tại: 0.08970 USDT, pnl: -21.45 % 
+[2025-07-29 10:19:26] Giá SPK-USDT hiện tại: 0.08924 USDT, pnl: -31.80 % 
+[2025-07-29 10:24:27] Giá SPK-USDT hiện tại: 0.08959 USDT, pnl: -23.14 % 
+[2025-07-29 10:29:27] Giá SPK-USDT hiện tại: 0.09033 USDT, pnl: -8.14 % 
+[2025-07-29 10:34:28] Giá SPK-USDT hiện tại: 0.08930 USDT, pnl: -28.44 % 
+[2025-07-29 10:39:29] Giá SPK-USDT hiện tại: 0.08919 USDT, pnl: -31.83 % 
+[2025-07-29 10:44:41] Giá SPK-USDT hiện tại: 0.08966 USDT, pnl: -21.83 % 
+[2025-07-29 10:49:52] Giá SPK-USDT hiện tại: 0.08941 USDT, pnl: -27.76 % 
+[2025-07-29 10:55:04] Giá SPK-USDT hiện tại: 0.08890 USDT, pnl: -41.13 % 
+[2025-07-29 11:00:16] Giá SPK-USDT hiện tại: 0.08887 USDT, pnl: -40.40 % 
+[2025-07-29 11:05:27] Giá SPK-USDT hiện tại: 0.08950 USDT, pnl: -27.34 % 
+[2025-07-29 11:10:50] Giá SPK-USDT hiện tại: 0.09004 USDT, pnl: -12.71 % 
+[2025-07-29 11:16:23] Giá SPK-USDT hiện tại: 0.08968 USDT, pnl: -22.74 % 
+[2025-07-29 11:21:34] Giá SPK-USDT hiện tại: 0.08955 USDT, pnl: -25.79 % 
+[2025-07-29 11:26:35] Giá SPK-USDT hiện tại: 0.08950 USDT, pnl: -26.35 % 
+[2025-07-29 11:31:47] Giá SPK-USDT hiện tại: 0.08917 USDT, pnl: -33.36 % 
+[2025-07-29 11:36:47] Giá SPK-USDT hiện tại: 0.08848 USDT, pnl: -48.50 % 
+[2025-07-29 11:41:48] Giá SPK-USDT hiện tại: 0.08887 USDT, pnl: -40.46 % 
+[2025-07-29 11:46:49] Giá SPK-USDT hiện tại: 0.08845 USDT, pnl: -49.18 % 
+[2025-07-29 11:52:33] Giá SPK-USDT hiện tại: 0.08862 USDT, pnl: -45.61 % 
+[2025-07-29 11:57:34] Giá SPK-USDT hiện tại: 0.08800 USDT, pnl: -59.57 % 
+[2025-07-29 12:02:45] Giá SPK-USDT hiện tại: 0.08824 USDT, pnl: -53.06 % 
+[2025-07-29 12:07:46] Giá SPK-USDT hiện tại: 0.08801 USDT, pnl: -59.43 % 
+[2025-07-29 12:12:47] Giá SPK-USDT hiện tại: 0.08785 USDT, pnl: -62.59 % 
+[2025-07-29 12:17:58] Giá SPK-USDT hiện tại: 0.08730 USDT, pnl: -75.67 % 
+[2025-07-29 12:23:10] Giá SPK-USDT hiện tại: 0.08783 USDT, pnl: -62.69 % 
+[2025-07-29 12:28:22] Giá SPK-USDT hiện tại: 0.08708 USDT, pnl: -79.59 % 
+[2025-07-29 12:33:34] Giá SPK-USDT hiện tại: 0.08749 USDT, pnl: -71.09 % 
+[2025-07-29 12:38:34] Giá SPK-USDT hiện tại: 0.08791 USDT, pnl: -61.32 % 
+[2025-07-29 12:43:35] Giá SPK-USDT hiện tại: 0.08744 USDT, pnl: -71.35 % 
+[2025-07-29 12:48:47] Giá SPK-USDT hiện tại: 0.08774 USDT, pnl: -64.57 % 
+[2025-07-29 12:53:59] Giá SPK-USDT hiện tại: 0.08772 USDT, pnl: -66.30 % 
+[2025-07-29 12:58:59] Giá SPK-USDT hiện tại: 0.08756 USDT, pnl: -69.54 % 
+[2025-07-29 13:04:11] Giá SPK-USDT hiện tại: 0.08761 USDT, pnl: -66.30 % 
+[2025-07-29 13:09:23] Giá SPK-USDT hiện tại: 0.08748 USDT, pnl: -71.85 % 
+[2025-07-29 13:14:35] Giá SPK-USDT hiện tại: 0.08730 USDT, pnl: -75.65 % 
+[2025-07-29 13:19:35] Giá SPK-USDT hiện tại: 0.08727 USDT, pnl: -74.99 % 
+[2025-07-29 13:24:36] Giá SPK-USDT hiện tại: 0.08718 USDT, pnl: -76.94 % 
+[2025-07-29 13:29:48] Giá SPK-USDT hiện tại: 0.08688 USDT, pnl: -83.18 % 
+[2025-07-29 13:34:49] Giá SPK-USDT hiện tại: 0.08709 USDT, pnl: -78.49 % 
+[2025-07-29 13:40:00] Giá SPK-USDT hiện tại: 0.08746 USDT, pnl: -70.43 % 
+[2025-07-29 13:45:12] Giá SPK-USDT hiện tại: 0.08739 USDT, pnl: -74.21 % 
+[2025-07-29 13:50:35] Giá SPK-USDT hiện tại: 0.08751 USDT, pnl: -70.96 % 
+[2025-07-29 13:55:36] Giá SPK-USDT hiện tại: 0.08738 USDT, pnl: -72.04 % 
+[2025-07-29 14:00:36] Giá SPK-USDT hiện tại: 0.08751 USDT, pnl: -70.74 % 
+[2025-07-29 14:05:48] Giá SPK-USDT hiện tại: 0.08761 USDT, pnl: -67.06 % 
+[2025-07-29 14:10:49] Giá SPK-USDT hiện tại: 0.08720 USDT, pnl: -76.42 % 
+[2025-07-29 14:15:50] Giá SPK-USDT hiện tại: 0.08757 USDT, pnl: -70.03 % 
+[2025-07-29 14:20:50] Giá SPK-USDT hiện tại: 0.08924 USDT, pnl: -33.43 % 
+[2025-07-29 14:25:51] Giá SPK-USDT hiện tại: 0.08926 USDT, pnl: -31.08 % 
+[2025-07-29 14:31:03] Giá SPK-USDT hiện tại: 0.08890 USDT, pnl: -38.78 % 
+[2025-07-29 14:36:14] Giá SPK-USDT hiện tại: 0.08893 USDT, pnl: -39.03 % 
+[2025-07-29 14:41:15] Giá SPK-USDT hiện tại: 0.08846 USDT, pnl: -49.77 % 
+[2025-07-29 14:46:16] Giá SPK-USDT hiện tại: 0.08776 USDT, pnl: -64.15 % 
+[2025-07-29 14:51:17] Giá SPK-USDT hiện tại: 0.08824 USDT, pnl: -54.69 % 
+[2025-07-29 14:56:17] Giá SPK-USDT hiện tại: 0.08767 USDT, pnl: -65.66 % 
+[2025-07-29 15:01:29] Giá SPK-USDT hiện tại: 0.08787 USDT, pnl: -63.22 % 
+[2025-07-29 15:06:30] Giá SPK-USDT hiện tại: 0.08777 USDT, pnl: -65.69 % 
+[2025-07-29 15:11:42] Giá SPK-USDT hiện tại: 0.08749 USDT, pnl: -71.21 % 
+[2025-07-29 15:16:53] Giá SPK-USDT hiện tại: 0.08745 USDT, pnl: -72.54 % 
+[2025-07-29 15:22:05] Giá SPK-USDT hiện tại: 0.08717 USDT, pnl: -76.85 % 
+[2025-07-29 15:27:17] Giá SPK-USDT hiện tại: 0.08645 USDT, pnl: -93.20 % 
+[2025-07-29 15:32:28] Giá SPK-USDT hiện tại: 0.08670 USDT, chưa mở vị thế. 
+[2025-07-29 15:32:28] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-29 15:37:29] Giá SPK-USDT hiện tại: 0.08588 USDT, chưa mở vị thế. 
+[2025-07-29 15:37:29] Thiết lập đòn bẩy x15 cho SPK-USDT thành công.
+[2025-07-29 15:37:30] Xu hướng Bearish (Giảm nhẹ). Đặt lệnh BÁN 34.932463903120635 SPK-USDT tại giá 0.08588, SL: 0.09017, TP: 0.07300
+[2025-07-29 15:42:53] Giá SPK-USDT hiện tại: 0.08582 USDT, pnl: 1.61 % 
+[2025-07-29 15:48:04] Giá SPK-USDT hiện tại: 0.08471 USDT, pnl: 22.00 % 
+[2025-07-29 15:48:04] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 15:48:05] Lỗi: unsupported operand type(s) for /: 'float' and 'str'
+[2025-07-29 15:49:05] Giá SPK-USDT hiện tại: 0.08474 USDT, pnl: 19.74 % 
+[2025-07-29 15:54:06] Giá SPK-USDT hiện tại: 0.08382 USDT, pnl: 35.61 % 
+[2025-07-29 15:54:06] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 15:54:06] Lỗi: unsupported operand type(s) for /: 'float' and 'str'
+[2025-07-29 15:55:18] Giá SPK-USDT hiện tại: 0.08435 USDT, pnl: 26.26 % 
+[2025-07-29 15:55:18] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 15:55:18] Lỗi: unsupported operand type(s) for /: 'float' and 'str'
+[2025-07-29 15:56:30] Giá SPK-USDT hiện tại: 0.08478 USDT, pnl: 19.76 % 
+[2025-07-29 16:01:31] Giá SPK-USDT hiện tại: 0.08424 USDT, pnl: 27.25 % 
+[2025-07-29 16:01:31] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 16:01:31] Lỗi: unsupported operand type(s) for /: 'float' and 'str'
+[2025-07-29 16:02:42] Giá SPK-USDT hiện tại: 0.08445 USDT, pnl: 25.55 % 
+[2025-07-29 16:02:42] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 16:02:43] Lỗi: unsupported operand type(s) for /: 'float' and 'str'
+[2025-07-29 16:03:45] Đã đóng vị thế SPK-USDT thành công.
+
+[2025-07-29 16:03:46] Khởi động chương trình. Số dư USDT ban đầu: 1.59 USDT
+[2025-07-29 16:03:46] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Sideway (Đi ngang)
+Giá hiện tại: 0.08486 USDT
+RSI: 34.47
+ATR (%): 2.16%
+Số dư USDT hiện tại: 1.59220 USDT
+[2025-07-29 16:03:46] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-29 16:08:47] Giá SPK-USDT hiện tại: 0.08499 USDT, chưa mở vị thế. 
+[2025-07-29 16:08:47] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-29 16:13:59] Giá SPK-USDT hiện tại: 0.08471 USDT, chưa mở vị thế. 
+[2025-07-29 16:13:59] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-29 16:19:10] Giá SPK-USDT hiện tại: 0.08454 USDT, chưa mở vị thế. 
+[2025-07-29 16:19:10] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-29 16:24:22] Giá SPK-USDT hiện tại: 0.08508 USDT, chưa mở vị thế. 
+[2025-07-29 16:24:22] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-29 16:29:21] Dừng chương trình.
+[2025-07-29 16:29:21] Không có lệnh đang mở. Số dư USDT: 1.59 USDT
+[2025-07-29 16:29:48] Khởi động chương trình. Số dư USDT ban đầu: 1.59 USDT
+[2025-07-29 16:29:48] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Sideway (Đi ngang)
+Giá hiện tại: 0.08490 USDT
+RSI: 36.09
+ATR (%): 2.19%
+Số dư USDT hiện tại: 1.59220 USDT
+[2025-07-29 16:29:48] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-29 16:34:49] Giá SPK-USDT hiện tại: 0.08463 USDT, chưa mở vị thế. 
+[2025-07-29 16:34:49] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-29 16:35:01] Lỗi: 'order'
+[2025-07-29 16:36:12] Giá SPK-USDT hiện tại: 0.08459 USDT, chưa mở vị thế. 
+[2025-07-29 16:36:12] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-29 16:36:13] Xu hướng Bearish (Giảm nhẹ). Đặt lệnh BÁN 35.46518501004847 SPK-USDT tại giá 0.08459, SL: 0.08882, TP: 0.07190
+[2025-07-29 16:41:36] Giá SPK-USDT hiện tại: 0.08475 USDT, pnl: -2.51 % 
+[2025-07-29 16:46:36] Giá SPK-USDT hiện tại: 0.08520 USDT, pnl: -11.50 % 
+[2025-07-29 16:51:48] Giá SPK-USDT hiện tại: 0.08528 USDT, pnl: -12.75 % 
+[2025-07-29 16:57:00] Giá SPK-USDT hiện tại: 0.08512 USDT, pnl: -8.19 % 
+[2025-07-29 17:02:12] Giá SPK-USDT hiện tại: 0.08511 USDT, pnl: -8.87 % 
+[2025-07-29 17:07:24] Giá SPK-USDT hiện tại: 0.08434 USDT, pnl: 2.92 % 
+[2025-07-29 17:12:36] Giá SPK-USDT hiện tại: 0.08417 USDT, pnl: 6.97 % 
+[2025-07-29 17:17:36] Giá SPK-USDT hiện tại: 0.08403 USDT, pnl: 9.15 % 
+[2025-07-29 17:22:48] Giá SPK-USDT hiện tại: 0.08333 USDT, pnl: 21.78 % 
+[2025-07-29 17:22:48] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 17:22:48] Không Xóa stop-loss cũ 0.08882.
+[2025-07-29 17:28:00] Giá SPK-USDT hiện tại: 0.08325 USDT, pnl: 23.45 % 
+[2025-07-29 17:28:00] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 17:28:00] Không Xóa stop-loss cũ 0.08882.
+[2025-07-29 17:33:12] Giá SPK-USDT hiện tại: 0.08277 USDT, pnl: 32.16 % 
+[2025-07-29 17:33:12] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 17:33:13] Không Xóa stop-loss cũ 0.08882.
+[2025-07-29 17:38:13] Giá SPK-USDT hiện tại: 0.08283 USDT, pnl: 30.97 % 
+[2025-07-29 17:38:13] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 17:38:14] Không Xóa stop-loss cũ 0.08882.
+[2025-07-29 17:43:15] Giá SPK-USDT hiện tại: 0.08256 USDT, pnl: 35.18 % 
+[2025-07-29 17:43:15] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 17:43:15] Không Xóa stop-loss cũ 0.08882.
+[2025-07-29 17:48:16] Giá SPK-USDT hiện tại: 0.08218 USDT, pnl: 41.90 % 
+[2025-07-29 17:48:16] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 17:48:16] Không Xóa stop-loss cũ 0.08882.
+[2025-07-29 17:53:28] Giá SPK-USDT hiện tại: 0.08134 USDT, pnl: 58.22 % 
+[2025-07-29 17:53:28] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-29 17:53:28] Không Xóa stop-loss cũ 0.08882.
+[2025-07-29 17:58:39] Dừng chương trình.
+[2025-07-29 17:58:40] Xu hướng Bearish (Giảm mạnh). Lệnh SHORT đã được đóng do dừng chương trình. Với lợi nhuận 58.22 % và số dư USDT: 1.68 USDT
+[2025-07-30 09:22:08] Khởi động chương trình. Số dư USDT ban đầu: 1.88 USDT
+[2025-07-30 09:22:09] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Bullish (Tăng mạnh)
+Giá hiện tại: 0.10802 USDT
+RSI: 81.61
+ATR (%): 4.33%
+Số dư USDT hiện tại: 1.88270 USDT
+[2025-07-30 09:22:09] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-30 09:22:21] Lỗi: 'order'
+[2025-07-30 09:23:34] Giá SPK-USDT hiện tại: 0.10890 USDT, chưa mở vị thế. 
+[2025-07-30 09:23:34] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-30 09:23:35] Xu hướng Bullish (Tăng mạnh). Đặt lệnh MUA 27.548209366391188 SPK-USDT tại giá 0.10890, SL: 0.10345, TP: 0.12523
+[2025-07-30 09:28:38] Giá SPK-USDT hiện tại: 0.10925 USDT, pnl: 6.89 % 
+[2025-07-30 09:33:50] Giá SPK-USDT hiện tại: 0.11392 USDT, pnl: 93.12 % 
+[2025-07-30 09:33:50] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-30 09:33:51] Stop-loss mới 0.11746, stop-loss cũ 0.10346.
+[2025-07-30 09:33:51] Update stop-loss flag: False 
+[2025-07-30 09:33:51] Không Xóa stop-loss cũ 0.10346.
+[2025-07-30 09:39:13] Giá SPK-USDT hiện tại: 0.11106 USDT, pnl: 22.89 % 
+[2025-07-30 09:39:13] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-30 09:39:13] Stop-loss mới 0.11191, stop-loss cũ 0.10346.
+[2025-07-30 09:39:13] Update stop-loss flag: False 
+[2025-07-30 09:39:13] Không Xóa stop-loss cũ 0.10346.
+[2025-07-30 09:42:54] Dừng chương trình.
+[2025-07-30 09:42:55] Xu hướng Bullish (Tăng mạnh). Lệnh LONG đã được đóng do dừng chương trình. Với lợi nhuận 22.89 % và số dư USDT: 1.81 USDT
+[2025-07-30 09:43:16] Khởi động chương trình. Số dư USDT ban đầu: 1.81 USDT
+[2025-07-30 09:43:17] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Sideway (Đi ngang)
+Giá hiện tại: 0.10700 USDT
+RSI: 76.48
+ATR (%): 4.81%
+Số dư USDT hiện tại: 1.80930 USDT
+[2025-07-30 09:43:17] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 09:44:26] Dừng chương trình.
+[2025-07-30 09:44:26] Không có lệnh đang mở. Số dư USDT: 1.81 USDT
+[2025-07-30 09:44:52] Khởi động chương trình. Số dư USDT ban đầu: 1.81 USDT
+[2025-07-30 09:44:53] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Sideway (Đi ngang)
+Giá hiện tại: 0.10631 USDT
+RSI: 74.71
+ATR (%): 4.84%
+Số dư USDT hiện tại: 1.80930 USDT
+[2025-07-30 09:44:53] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 09:50:06] Giá SPK-USDT hiện tại: 0.10213 USDT, chưa mở vị thế. 
+[2025-07-30 09:50:06] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 09:55:07] Giá SPK-USDT hiện tại: 0.10312 USDT, chưa mở vị thế. 
+[2025-07-30 09:55:07] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 09:55:30] Dừng chương trình.
+[2025-07-30 09:55:30] Không có lệnh đang mở. Số dư USDT: 1.81 USDT
+[2025-07-30 09:55:38] Khởi động chương trình. Số dư USDT ban đầu: 1.81 USDT
+[2025-07-30 09:55:39] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Sideway (Đi ngang)
+Giá hiện tại: 0.10388 USDT
+RSI: 68.68
+ATR (%): 5.29%
+Số dư USDT hiện tại: 1.80770 USDT
+[2025-07-30 09:55:39] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 10:00:52] Giá SPK-USDT hiện tại: 0.10456 USDT, chưa mở vị thế. 
+[2025-07-30 10:00:53] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-30 10:00:54] Xu hướng Bullish (Tăng nhẹ). Đặt lệnh None 28.69166029074216 SPK-USDT tại giá 0.10456, SL: 0.09933, TP: 0.12024
+[2025-07-30 10:06:07] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10214 USDT, với pnl: -50.78 % 
+[2025-07-30 10:11:20] Giá SPK-USDT hiện tại: 0.09563 USDT, chưa mở vị thế. 
+[2025-07-30 10:11:20] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 10:16:34] Giá SPK-USDT hiện tại: 0.09700 USDT, chưa mở vị thế. 
+[2025-07-30 10:16:34] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 10:21:47] Giá SPK-USDT hiện tại: 0.09903 USDT, chưa mở vị thế. 
+[2025-07-30 10:21:47] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 10:26:49] Giá SPK-USDT hiện tại: 0.10046 USDT, chưa mở vị thế. 
+[2025-07-30 10:26:49] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 10:32:02] Giá SPK-USDT hiện tại: 0.10047 USDT, chưa mở vị thế. 
+[2025-07-30 10:32:03] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-30 10:32:04] Xu hướng Bullish (Tăng nhẹ). Đặt lệnh None 29.859659599880562 SPK-USDT tại giá 0.10047, SL: 0.09545, TP: 0.11554
+[2025-07-30 10:37:15] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10147 USDT, với pnl: 16.28 % 
+[2025-07-30 10:42:28] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10000 USDT, với pnl: -17.54 % 
+[2025-07-30 10:47:42] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10109 USDT, với pnl: 9.61 % 
+[2025-07-30 10:52:54] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10088 USDT, với pnl: 3.66 % 
+[2025-07-30 10:58:07] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10081 USDT, với pnl: 2.55 % 
+[2025-07-30 11:03:20] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10023 USDT, với pnl: -10.05 % 
+[2025-07-30 11:08:22] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09933 USDT, với pnl: -27.61 % 
+[2025-07-30 11:13:36] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09847 USDT, với pnl: -42.50 % 
+[2025-07-30 11:18:49] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09950 USDT, với pnl: -21.12 % 
+[2025-07-30 11:24:02] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10121 USDT, với pnl: 9.75 % 
+[2025-07-30 11:29:16] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10058 USDT, với pnl: -0.18 % 
+[2025-07-30 11:34:29] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10083 USDT, với pnl: 3.83 % 
+[2025-07-30 11:39:42] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09963 USDT, với pnl: -19.61 % 
+[2025-07-30 11:44:44] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10136 USDT, với pnl: 14.79 % 
+[2025-07-30 11:49:47] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09978 USDT, với pnl: -16.24 % 
+[2025-07-30 11:55:00] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10092 USDT, với pnl: 4.76 % 
+[2025-07-30 12:00:13] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09972 USDT, với pnl: -17.03 % 
+[2025-07-30 12:05:26] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09884 USDT, với pnl: -38.35 % 
+[2025-07-30 12:10:40] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09810 USDT, với pnl: -50.72 % 
+[2025-07-30 12:15:53] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09839 USDT, với pnl: -44.10 % 
+[2025-07-30 12:21:06] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09612 USDT, với pnl: -92.01 % 
+[2025-07-30 12:26:19] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09743 USDT, với pnl: -62.95 % 
+[2025-07-30 12:31:32] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09733 USDT, với pnl: -66.57 % 
+[2025-07-30 12:36:35] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09678 USDT, với pnl: -76.49 % 
+[2025-07-30 12:41:37] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09771 USDT, với pnl: -57.66 % 
+[2025-07-30 12:46:39] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09726 USDT, với pnl: -67.39 % 
+[2025-07-30 12:51:41] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09796 USDT, với pnl: -54.51 % 
+[2025-07-30 12:56:43] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09870 USDT, với pnl: -38.24 % 
+[2025-07-30 13:01:45] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10024 USDT, với pnl: -6.24 % 
+[2025-07-30 13:06:48] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09900 USDT, với pnl: -32.80 % 
+[2025-07-30 13:11:50] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09714 USDT, với pnl: -69.81 % 
+[2025-07-30 13:17:04] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09835 USDT, với pnl: -44.68 % 
+[2025-07-30 13:22:06] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09780 USDT, với pnl: -60.25 % 
+[2025-07-30 13:27:20] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09778 USDT, với pnl: -56.89 % 
+[2025-07-30 13:32:44] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09765 USDT, với pnl: -58.86 % 
+[2025-07-30 13:37:58] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09811 USDT, với pnl: -49.89 % 
+[2025-07-30 13:43:11] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09829 USDT, với pnl: -46.86 % 
+[2025-07-30 13:48:24] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09894 USDT, với pnl: -32.63 % 
+[2025-07-30 13:53:37] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09944 USDT, với pnl: -22.76 % 
+[2025-07-30 13:58:51] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10086 USDT, với pnl: 4.70 % 
+[2025-07-30 14:04:04] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09896 USDT, với pnl: -36.47 % 
+[2025-07-30 14:09:17] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09796 USDT, với pnl: -52.62 % 
+[2025-07-30 14:14:31] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09869 USDT, với pnl: -34.30 % 
+[2025-07-30 14:19:44] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09833 USDT, với pnl: -44.41 % 
+[2025-07-30 14:24:57] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09865 USDT, với pnl: -41.54 % 
+[2025-07-30 14:30:11] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09802 USDT, với pnl: -53.71 % 
+[2025-07-30 14:35:24] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09689 USDT, với pnl: -75.33 % 
+[2025-07-30 14:40:37] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09687 USDT, với pnl: -74.11 % 
+[2025-07-30 14:45:51] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09740 USDT, với pnl: -65.64 % 
+[2025-07-30 14:51:04] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09725 USDT, với pnl: -67.84 % 
+[2025-07-30 14:56:17] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09744 USDT, với pnl: -62.49 % 
+[2025-07-30 15:01:19] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09781 USDT, với pnl: -57.48 % 
+[2025-07-30 15:06:32] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09885 USDT, với pnl: -34.78 % 
+[2025-07-30 15:11:46] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09815 USDT, với pnl: -48.96 % 
+[2025-07-30 15:16:59] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09824 USDT, với pnl: -50.55 % 
+[2025-07-30 15:22:12] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09864 USDT, với pnl: -37.30 % 
+[2025-07-30 15:27:23] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09773 USDT, với pnl: -59.69 % 
+[2025-07-30 15:32:25] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09777 USDT, với pnl: -55.62 % 
+[2025-07-30 15:37:37] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09942 USDT, với pnl: -24.64 % 
+[2025-07-30 15:42:39] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09921 USDT, với pnl: -30.05 % 
+[2025-07-30 15:47:53] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10007 USDT, với pnl: -12.23 % 
+[2025-07-30 15:52:54] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10163 USDT, với pnl: 20.34 % 
+[2025-07-30 15:52:54] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-30 15:52:54] Vị thế SELL: Stop-loss mới 0.10232, stop-loss cũ 0.09545.
+[2025-07-30 15:52:54] Update stop-loss flag: False 
+[2025-07-30 15:52:54] Không Xóa stop-loss cũ 0.09545.
+[2025-07-30 15:58:06] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10296 USDT, với pnl: 50.49 % 
+[2025-07-30 15:58:06] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-30 15:58:07] Vị thế SELL: Stop-loss mới 0.10469, stop-loss cũ 0.09545.
+[2025-07-30 15:58:07] Update stop-loss flag: False 
+[2025-07-30 15:58:07] Không Xóa stop-loss cũ 0.09545.
+[2025-07-30 16:03:30] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09871 USDT, với pnl: -59.93 % 
+[2025-07-30 16:08:42] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10127 USDT, với pnl: 15.57 % 
+[2025-07-30 16:13:54] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10096 USDT, với pnl: 4.65 % 
+[2025-07-30 16:18:56] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10146 USDT, với pnl: 16.91 % 
+[2025-07-30 16:21:27] Dừng chương trình.
+[2025-07-30 16:21:39] Xu hướng Sideway (Đi ngang). Lệnh LONG đã được đóng do dừng chương trình. Với lợi nhuận 16.91 % và số dư USDT: 1.68 USDT
+[2025-07-30 16:22:24] Khởi động chương trình. Số dư USDT ban đầu: 1.68 USDT
+[2025-07-30 16:22:25] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Sideway (Đi ngang)
+Giá hiện tại: 0.10161 USDT
+RSI: 59.57
+ATR (%): 4.92%
+Số dư USDT hiện tại: 1.68390 USDT
+[2025-07-30 16:22:25] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 16:27:27] Giá SPK-USDT hiện tại: 0.10160 USDT, chưa mở vị thế. 
+[2025-07-30 16:27:27] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 16:32:28] Giá SPK-USDT hiện tại: 0.10230 USDT, chưa mở vị thế. 
+[2025-07-30 16:32:28] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-30 16:32:29] Xu hướng Bullish (Tăng nhẹ). Đặt lệnh LONG 29.32551319648094 SPK-USDT tại giá 0.10230, SL: 0.09719, TP: 0.11764
+[2025-07-30 16:37:41] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.10046 USDT, với pnl: -35.46 % 
+[2025-07-30 16:42:54] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09947 USDT, với pnl: -59.08 % 
+[2025-07-30 16:48:07] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09838 USDT, với pnl: -76.16 % 
+[2025-07-30 16:53:19] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09821 USDT, với pnl: -81.84 % 
+[2025-07-30 16:58:31] Giá SPK-USDT hiện tại: 0.09745 USDT, chưa mở vị thế. 
+[2025-07-30 16:58:31] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-30 17:03:45] Giá SPK-USDT hiện tại: 0.09754 USDT, chưa mở vị thế. 
+[2025-07-30 17:03:45] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-30 17:03:46] Xu hướng Bullish (Tăng nhẹ). Đặt lệnh LONG 30.756612671724422 SPK-USDT tại giá 0.09754, SL: 0.09266, TP: 0.11217
+[2025-07-30 17:08:48] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09830 USDT, với pnl: 17.54 % 
+[2025-07-30 17:14:01] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09821 USDT, với pnl: 12.67 % 
+[2025-07-30 17:19:47] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09872 USDT, với pnl: 23.74 % 
+[2025-07-30 17:19:47] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-30 17:20:10] Vị thế LONG: Stop-loss mới 0.09794, stop-loss cũ 0.09266.
+[2025-07-30 17:20:10] Update stop-loss flag: True 
+[2025-07-30 17:20:10] Xóa stop-loss cũ 0.09266 thành công.
+[2025-07-30 17:20:11] Điều chỉnh stop-loss mới 0.09794 thành công.
+[2025-07-30 17:25:13] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09856 USDT, với pnl: 20.95 % 
+[2025-07-30 17:25:13] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-30 17:25:14] Vị thế LONG: Stop-loss mới 0.09787, stop-loss cũ 0.09794.
+[2025-07-30 17:25:14] Update stop-loss flag: False 
+[2025-07-30 17:25:14] Không Xóa stop-loss cũ 0.09794.
+[2025-07-30 17:30:27] Đang có lệnh LONG SPK-USDT và giá hiện tại: 0.09890 USDT, với pnl: 28.42 % 
+[2025-07-30 17:30:27] Lợi nhuận > 20% nên sẽ update lại stop-loss
+[2025-07-30 17:30:49] Vị thế LONG: Stop-loss mới 0.09796, stop-loss cũ 0.09794.
+[2025-07-30 17:30:49] Update stop-loss flag: True 
+[2025-07-30 17:30:50] Xóa stop-loss cũ 0.09794 thành công.
+[2025-07-30 17:30:51] Điều chỉnh stop-loss mới 0.09796 thành công.
+[2025-07-31 09:37:39] Khởi động chương trình. Số dư USDT ban đầu: 1.33 USDT
+[2025-07-31 09:37:40] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Bearish (Giảm nhẹ)
+Giá hiện tại: 0.09949 USDT
+RSI: 39.34
+Số dư USDT hiện tại: 1.32620 USDT
+[2025-07-31 09:37:41] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-31 09:37:42] Xu hướng Bearish (Giảm nhẹ). Đặt lệnh SHORT 30.153784299929644 SPK-USDT tại giá 0.09949, SL: 0.10446, TP: 0.08457
+[2025-07-31 09:42:55] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09989 USDT, với pnl: -7.56 % 
+[2025-07-31 09:48:08] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09849 USDT, với pnl: 14.47 % 
+[2025-07-31 09:53:21] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09881 USDT, với pnl: 9.04 % 
+[2025-07-31 09:58:34] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09893 USDT, với pnl: 6.62 % 
+[2025-07-31 10:03:59] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09966 USDT, với pnl: -3.02 % 
+[2025-07-31 10:09:01] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.10021 USDT, với pnl: -11.41 % 
+[2025-07-31 10:14:14] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09980 USDT, với pnl: -6.39 % 
+[2025-07-31 10:19:27] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09950 USDT, với pnl: -1.53 % 
+[2025-07-31 10:24:41] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09941 USDT, với pnl: -0.59 % 
+[2025-07-31 10:29:54] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09950 USDT, với pnl: -0.74 % 
+[2025-07-31 10:35:06] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09880 USDT, với pnl: 9.28 % 
+[2025-07-31 10:40:19] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09909 USDT, với pnl: 4.83 % 
+[2025-07-31 10:45:32] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09841 USDT, với pnl: 15.87 % 
+[2025-07-31 10:50:34] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09855 USDT, với pnl: 12.83 % 
+[2025-07-31 10:55:47] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09853 USDT, với pnl: 13.70 % 
+[2025-07-31 11:01:00] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09863 USDT, với pnl: 11.32 % 
+[2025-07-31 11:06:12] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09949 USDT, với pnl: -2.78 % 
+[2025-07-31 11:11:15] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09937 USDT, với pnl: 0.39 % 
+[2025-07-31 11:16:39] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09993 USDT, với pnl: -9.63 % 
+[2025-07-31 11:21:52] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.10006 USDT, với pnl: -9.39 % 
+[2025-07-31 11:27:04] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09936 USDT, với pnl: 1.80 % 
+[2025-07-31 11:32:16] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09962 USDT, với pnl: -2.66 % 
+[2025-07-31 11:37:18] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.10029 USDT, với pnl: -13.02 % 
+[2025-07-31 11:42:31] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09983 USDT, với pnl: -7.03 % 
+[2025-07-31 11:47:43] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.10060 USDT, với pnl: -18.31 % 
+[2025-07-31 11:52:45] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.10006 USDT, với pnl: -9.97 % 
+[2025-07-31 11:57:58] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09939 USDT, với pnl: 0.11 % 
+[2025-07-31 12:03:10] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09954 USDT, với pnl: -3.80 % 
+[2025-07-31 12:08:11] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.10018 USDT, với pnl: -11.18 % 
+[2025-07-31 12:13:24] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.10034 USDT, với pnl: -14.46 % 
+[2025-07-31 12:18:36] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09980 USDT, với pnl: -5.92 % 
+[2025-07-31 12:23:49] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09997 USDT, với pnl: -7.01 % 
+[2025-07-31 12:29:02] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09922 USDT, với pnl: 2.82 % 
+[2025-07-31 12:34:16] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09935 USDT, với pnl: 0.35 % 
+[2025-07-31 12:39:30] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09910 USDT, với pnl: 3.76 % 
+[2025-07-31 12:44:43] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09838 USDT, với pnl: 16.15 % 
+[2025-07-31 12:49:57] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09710 USDT, với pnl: 35.10 % 
+[2025-07-31 12:54:59] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09631 USDT, với pnl: 46.27 % 
+[2025-07-31 13:00:02] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09655 USDT, với pnl: 43.77 % 
+[2025-07-31 13:05:16] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09461 USDT, với pnl: 73.62 % 
+[2025-07-31 13:05:16] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:05:17] Vị thế SHORT: Stop-loss mới 0.09693, stop-loss cũ 0.10446.
+[2025-07-31 13:05:17] Update stop-loss flag: True 
+[2025-07-31 13:05:17] Xóa stop-loss cũ 0.10446 thành công.
+[2025-07-31 13:05:18] Điều chỉnh stop-loss mới 0.09693 thành công.
+[2025-07-31 13:10:32] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09313 USDT, với pnl: 94.32 % 
+[2025-07-31 13:10:32] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:10:33] Vị thế SHORT: Stop-loss mới 0.09606, stop-loss cũ 0.09693.
+[2025-07-31 13:10:33] Update stop-loss flag: True 
+[2025-07-31 13:10:34] Xóa stop-loss cũ 0.09693 thành công.
+[2025-07-31 13:10:35] Điều chỉnh stop-loss mới 0.09606 thành công.
+[2025-07-31 13:15:48] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09336 USDT, với pnl: 89.95 % 
+[2025-07-31 13:15:48] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:15:49] Vị thế SHORT: Stop-loss mới 0.09616, stop-loss cũ 0.09606.
+[2025-07-31 13:15:49] Update stop-loss flag: False 
+[2025-07-31 13:15:49] Không Xóa stop-loss cũ 0.09606.
+[2025-07-31 13:21:03] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09365 USDT, với pnl: 87.22 % 
+[2025-07-31 13:21:03] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:21:04] Vị thế SHORT: Stop-loss mới 0.09637, stop-loss cũ 0.09606.
+[2025-07-31 13:21:04] Update stop-loss flag: False 
+[2025-07-31 13:21:04] Không Xóa stop-loss cũ 0.09606.
+[2025-07-31 13:26:28] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09424 USDT, với pnl: 78.99 % 
+[2025-07-31 13:26:28] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:26:29] Vị thế SHORT: Stop-loss mới 0.09672, stop-loss cũ 0.09606.
+[2025-07-31 13:26:29] Update stop-loss flag: False 
+[2025-07-31 13:26:29] Không Xóa stop-loss cũ 0.09606.
+[2025-07-31 13:31:43] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09403 USDT, với pnl: 81.21 % 
+[2025-07-31 13:31:43] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:31:44] Vị thế SHORT: Stop-loss mới 0.09658, stop-loss cũ 0.09606.
+[2025-07-31 13:31:44] Update stop-loss flag: False 
+[2025-07-31 13:31:44] Không Xóa stop-loss cũ 0.09606.
+[2025-07-31 13:37:00] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09363 USDT, với pnl: 86.98 % 
+[2025-07-31 13:37:00] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:37:01] Vị thế SHORT: Stop-loss mới 0.09634, stop-loss cũ 0.09606.
+[2025-07-31 13:37:01] Update stop-loss flag: False 
+[2025-07-31 13:37:01] Không Xóa stop-loss cũ 0.09606.
+[2025-07-31 13:42:14] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09382 USDT, với pnl: 85.07 % 
+[2025-07-31 13:42:14] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:42:15] Vị thế SHORT: Stop-loss mới 0.09648, stop-loss cũ 0.09606.
+[2025-07-31 13:42:15] Update stop-loss flag: False 
+[2025-07-31 13:42:15] Không Xóa stop-loss cũ 0.09606.
+[2025-07-31 13:47:29] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09413 USDT, với pnl: 79.71 % 
+[2025-07-31 13:47:29] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:47:30] Vị thế SHORT: Stop-loss mới 0.09663, stop-loss cũ 0.09606.
+[2025-07-31 13:47:30] Update stop-loss flag: False 
+[2025-07-31 13:47:30] Không Xóa stop-loss cũ 0.09606.
+[2025-07-31 13:52:44] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09358 USDT, với pnl: 88.89 % 
+[2025-07-31 13:52:44] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:52:45] Vị thế SHORT: Stop-loss mới 0.09635, stop-loss cũ 0.09606.
+[2025-07-31 13:52:45] Update stop-loss flag: False 
+[2025-07-31 13:52:45] Không Xóa stop-loss cũ 0.09606.
+[2025-07-31 13:58:00] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09361 USDT, với pnl: 87.25 % 
+[2025-07-31 13:58:00] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 13:58:01] Vị thế SHORT: Stop-loss mới 0.09633, stop-loss cũ 0.09606.
+[2025-07-31 13:58:01] Update stop-loss flag: False 
+[2025-07-31 13:58:01] Không Xóa stop-loss cũ 0.09606.
+[2025-07-31 14:03:26] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09306 USDT, với pnl: 95.62 % 
+[2025-07-31 14:03:26] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:03:27] Vị thế SHORT: Stop-loss mới 0.09603, stop-loss cũ 0.09606.
+[2025-07-31 14:03:27] Update stop-loss flag: True 
+[2025-07-31 14:03:28] Xóa stop-loss cũ 0.09606 thành công.
+[2025-07-31 14:03:30] Điều chỉnh stop-loss mới 0.09603 thành công.
+[2025-07-31 14:08:44] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09341 USDT, với pnl: 89.86 % 
+[2025-07-31 14:08:44] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:08:45] Vị thế SHORT: Stop-loss mới 0.09621, stop-loss cũ 0.09603.
+[2025-07-31 14:08:45] Update stop-loss flag: False 
+[2025-07-31 14:08:45] Không Xóa stop-loss cũ 0.09603.
+[2025-07-31 14:13:48] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09353 USDT, với pnl: 88.93 % 
+[2025-07-31 14:13:48] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:13:49] Vị thế SHORT: Stop-loss mới 0.09630, stop-loss cũ 0.09603.
+[2025-07-31 14:13:49] Update stop-loss flag: False 
+[2025-07-31 14:13:49] Không Xóa stop-loss cũ 0.09603.
+[2025-07-31 14:19:03] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09324 USDT, với pnl: 92.85 % 
+[2025-07-31 14:19:03] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:19:04] Vị thế SHORT: Stop-loss mới 0.09613, stop-loss cũ 0.09603.
+[2025-07-31 14:19:04] Update stop-loss flag: False 
+[2025-07-31 14:19:04] Không Xóa stop-loss cũ 0.09603.
+[2025-07-31 14:24:28] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09274 USDT, với pnl: 100.42 % 
+[2025-07-31 14:24:28] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:24:30] Vị thế SHORT: Stop-loss mới 0.09584, stop-loss cũ 0.09603.
+[2025-07-31 14:24:30] Update stop-loss flag: True 
+[2025-07-31 14:24:31] Xóa stop-loss cũ 0.09603 thành công.
+[2025-07-31 14:24:32] Điều chỉnh stop-loss mới 0.09584 thành công.
+[2025-07-31 14:29:34] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09208 USDT, với pnl: 111.21 % 
+[2025-07-31 14:29:34] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:29:35] Vị thế SHORT: Stop-loss mới 0.09549, stop-loss cũ 0.09584.
+[2025-07-31 14:29:35] Update stop-loss flag: True 
+[2025-07-31 14:29:36] Xóa stop-loss cũ 0.09584 thành công.
+[2025-07-31 14:29:37] Điều chỉnh stop-loss mới 0.09549 thành công.
+[2025-07-31 14:34:51] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09253 USDT, với pnl: 103.67 % 
+[2025-07-31 14:34:51] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:34:52] Vị thế SHORT: Stop-loss mới 0.09573, stop-loss cũ 0.09549.
+[2025-07-31 14:34:52] Update stop-loss flag: False 
+[2025-07-31 14:34:52] Không Xóa stop-loss cũ 0.09549.
+[2025-07-31 14:40:05] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09223 USDT, với pnl: 107.69 % 
+[2025-07-31 14:40:05] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:40:05] Vị thế SHORT: Stop-loss mới 0.09554, stop-loss cũ 0.09549.
+[2025-07-31 14:40:05] Update stop-loss flag: False 
+[2025-07-31 14:40:05] Không Xóa stop-loss cũ 0.09549.
+[2025-07-31 14:45:19] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09218 USDT, với pnl: 108.70 % 
+[2025-07-31 14:45:19] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:45:20] Vị thế SHORT: Stop-loss mới 0.09552, stop-loss cũ 0.09549.
+[2025-07-31 14:45:20] Update stop-loss flag: False 
+[2025-07-31 14:45:20] Không Xóa stop-loss cũ 0.09549.
+[2025-07-31 14:50:23] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09213 USDT, với pnl: 109.93 % 
+[2025-07-31 14:50:23] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:50:24] Vị thế SHORT: Stop-loss mới 0.09551, stop-loss cũ 0.09549.
+[2025-07-31 14:50:24] Update stop-loss flag: False 
+[2025-07-31 14:50:24] Không Xóa stop-loss cũ 0.09549.
+[2025-07-31 14:55:37] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09202 USDT, với pnl: 111.05 % 
+[2025-07-31 14:55:37] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 14:55:38] Vị thế SHORT: Stop-loss mới 0.09543, stop-loss cũ 0.09549.
+[2025-07-31 14:55:38] Update stop-loss flag: True 
+[2025-07-31 14:55:39] Xóa stop-loss cũ 0.09549 thành công.
+[2025-07-31 14:55:40] Điều chỉnh stop-loss mới 0.09543 thành công.
+[2025-07-31 15:00:43] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09210 USDT, với pnl: 109.55 % 
+[2025-07-31 15:00:43] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:00:44] Vị thế SHORT: Stop-loss mới 0.09546, stop-loss cũ 0.09543.
+[2025-07-31 15:00:44] Update stop-loss flag: False 
+[2025-07-31 15:00:44] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:05:58] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09248 USDT, với pnl: 104.81 % 
+[2025-07-31 15:05:58] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:06:00] Vị thế SHORT: Stop-loss mới 0.09571, stop-loss cũ 0.09543.
+[2025-07-31 15:06:00] Update stop-loss flag: False 
+[2025-07-31 15:06:00] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:11:04] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09235 USDT, với pnl: 106.64 % 
+[2025-07-31 15:11:04] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:11:05] Vị thế SHORT: Stop-loss mới 0.09563, stop-loss cũ 0.09543.
+[2025-07-31 15:11:05] Update stop-loss flag: False 
+[2025-07-31 15:11:05] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:16:19] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09287 USDT, với pnl: 98.25 % 
+[2025-07-31 15:16:19] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:16:20] Vị thế SHORT: Stop-loss mới 0.09591, stop-loss cũ 0.09543.
+[2025-07-31 15:16:20] Update stop-loss flag: False 
+[2025-07-31 15:16:20] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:21:34] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09269 USDT, với pnl: 100.63 % 
+[2025-07-31 15:21:34] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:21:35] Vị thế SHORT: Stop-loss mới 0.09580, stop-loss cũ 0.09543.
+[2025-07-31 15:21:35] Update stop-loss flag: False 
+[2025-07-31 15:21:35] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:26:49] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09251 USDT, với pnl: 103.71 % 
+[2025-07-31 15:26:49] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:26:50] Vị thế SHORT: Stop-loss mới 0.09571, stop-loss cũ 0.09543.
+[2025-07-31 15:26:50] Update stop-loss flag: False 
+[2025-07-31 15:26:50] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:31:53] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09246 USDT, với pnl: 104.50 % 
+[2025-07-31 15:31:53] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:31:54] Vị thế SHORT: Stop-loss mới 0.09568, stop-loss cũ 0.09543.
+[2025-07-31 15:31:54] Update stop-loss flag: False 
+[2025-07-31 15:31:54] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:36:58] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09253 USDT, với pnl: 103.42 % 
+[2025-07-31 15:36:58] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:37:03] Vị thế SHORT: Stop-loss mới 0.09572, stop-loss cũ 0.09543.
+[2025-07-31 15:37:03] Update stop-loss flag: False 
+[2025-07-31 15:37:03] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:42:06] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09237 USDT, với pnl: 105.27 % 
+[2025-07-31 15:42:06] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:42:30] Vị thế SHORT: Stop-loss mới 0.09561, stop-loss cũ 0.09543.
+[2025-07-31 15:42:30] Update stop-loss flag: False 
+[2025-07-31 15:42:30] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:47:33] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09262 USDT, với pnl: 103.29 % 
+[2025-07-31 15:47:33] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:47:34] Vị thế SHORT: Stop-loss mới 0.09581, stop-loss cũ 0.09543.
+[2025-07-31 15:47:34] Update stop-loss flag: False 
+[2025-07-31 15:47:34] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:53:00] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09255 USDT, với pnl: 103.34 % 
+[2025-07-31 15:53:00] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:53:01] Vị thế SHORT: Stop-loss mới 0.09574, stop-loss cũ 0.09543.
+[2025-07-31 15:53:01] Update stop-loss flag: False 
+[2025-07-31 15:53:01] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 15:58:04] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09236 USDT, với pnl: 105.56 % 
+[2025-07-31 15:58:04] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 15:58:06] Vị thế SHORT: Stop-loss mới 0.09561, stop-loss cũ 0.09543.
+[2025-07-31 15:58:06] Update stop-loss flag: False 
+[2025-07-31 15:58:06] Không Xóa stop-loss cũ 0.09543.
+[2025-07-31 16:03:20] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09128 USDT, với pnl: 123.52 % 
+[2025-07-31 16:03:20] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:03:21] Vị thế SHORT: Stop-loss mới 0.09504, stop-loss cũ 0.09543.
+[2025-07-31 16:03:21] Update stop-loss flag: True 
+[2025-07-31 16:03:22] Xóa stop-loss cũ 0.09543 thành công.
+[2025-07-31 16:03:24] Điều chỉnh stop-loss mới 0.09504 thành công.
+[2025-07-31 16:08:27] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09109 USDT, với pnl: 126.30 % 
+[2025-07-31 16:08:27] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:08:28] Vị thế SHORT: Stop-loss mới 0.09492, stop-loss cũ 0.09504.
+[2025-07-31 16:08:28] Update stop-loss flag: True 
+[2025-07-31 16:08:36] Xóa stop-loss cũ 0.09504 thành công.
+[2025-07-31 16:08:37] Điều chỉnh stop-loss mới 0.09492 thành công.
+[2025-07-31 16:13:40] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09127 USDT, với pnl: 122.46 % 
+[2025-07-31 16:13:40] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:13:41] Vị thế SHORT: Stop-loss mới 0.09500, stop-loss cũ 0.09504.
+[2025-07-31 16:13:41] Update stop-loss flag: True 
+[2025-07-31 16:13:43] Xóa stop-loss cũ 0.09504 thành công.
+[2025-07-31 16:13:44] Điều chỉnh stop-loss mới 0.09500 thành công.
+[2025-07-31 16:18:58] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09282 USDT, với pnl: 99.83 % 
+[2025-07-31 16:18:58] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:18:59] Vị thế SHORT: Stop-loss mới 0.09591, stop-loss cũ 0.09500.
+[2025-07-31 16:18:59] Update stop-loss flag: False 
+[2025-07-31 16:18:59] Không Xóa stop-loss cũ 0.09500.
+[2025-07-31 16:24:14] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09269 USDT, với pnl: 101.06 % 
+[2025-07-31 16:24:14] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:24:15] Vị thế SHORT: Stop-loss mới 0.09581, stop-loss cũ 0.09500.
+[2025-07-31 16:24:15] Update stop-loss flag: False 
+[2025-07-31 16:24:15] Không Xóa stop-loss cũ 0.09500.
+[2025-07-31 16:29:29] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09263 USDT, với pnl: 103.12 % 
+[2025-07-31 16:29:29] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:29:30] Vị thế SHORT: Stop-loss mới 0.09581, stop-loss cũ 0.09500.
+[2025-07-31 16:29:30] Update stop-loss flag: False 
+[2025-07-31 16:29:30] Không Xóa stop-loss cũ 0.09500.
+[2025-07-31 16:34:45] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09333 USDT, với pnl: 90.06 % 
+[2025-07-31 16:34:45] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:34:46] Vị thế SHORT: Stop-loss mới 0.09613, stop-loss cũ 0.09500.
+[2025-07-31 16:34:46] Update stop-loss flag: False 
+[2025-07-31 16:34:46] Không Xóa stop-loss cũ 0.09500.
+[2025-07-31 16:39:59] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09356 USDT, với pnl: 89.16 % 
+[2025-07-31 16:39:59] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:39:59] Vị thế SHORT: Stop-loss mới 0.09634, stop-loss cũ 0.09500.
+[2025-07-31 16:39:59] Update stop-loss flag: False 
+[2025-07-31 16:39:59] Không Xóa stop-loss cũ 0.09500.
+[2025-07-31 16:45:01] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09380 USDT, với pnl: 85.29 % 
+[2025-07-31 16:45:01] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:45:01] Vị thế SHORT: Stop-loss mới 0.09647, stop-loss cũ 0.09500.
+[2025-07-31 16:45:01] Update stop-loss flag: False 
+[2025-07-31 16:45:01] Không Xóa stop-loss cũ 0.09500.
+[2025-07-31 16:50:14] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09468 USDT, với pnl: 69.85 % 
+[2025-07-31 16:50:14] Lợi nhuận > 50% nên sẽ update lại stop-loss
+[2025-07-31 16:50:15] Vị thế SHORT: Stop-loss mới 0.09688, stop-loss cũ 0.09500.
+[2025-07-31 16:50:15] Update stop-loss flag: False 
+[2025-07-31 16:50:15] Không Xóa stop-loss cũ 0.09500.
+[2025-07-31 16:55:28] Giá SPK-USDT hiện tại: 0.09419 USDT, chưa mở vị thế. 
+[2025-07-31 16:55:28] Thị trường đi ngang, không đặt lệnh mới.
+[2025-07-31 17:00:41] Giá SPK-USDT hiện tại: 0.09344 USDT, chưa mở vị thế. 
+[2025-07-31 17:00:42] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-07-31 17:00:43] Xu hướng Bearish (Giảm nhẹ). Đặt lệnh SHORT 32.10616438356164 SPK-USDT tại giá 0.09344, SL: 0.09811, TP: 0.07942
+[2025-07-31 17:05:56] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09381 USDT, với pnl: -7.22 % 
+[2025-07-31 17:11:09] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09295 USDT, với pnl: 8.12 % 
+[2025-07-31 17:16:11] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09314 USDT, với pnl: 4.46 % 
+[2025-07-31 17:21:13] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09252 USDT, với pnl: 13.16 % 
+[2025-07-31 17:26:14] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09282 USDT, với pnl: 9.24 % 
+[2025-07-31 17:31:27] Đang có lệnh SHORT SPK-USDT và giá hiện tại: 0.09294 USDT, với pnl: 7.48 % 
+[2025-08-01 09:53:10] Khởi động chương trình. Số dư USDT ban đầu: 0.43 USDT
+[2025-08-01 09:53:13] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Bullish (Tăng nhẹ)
+Giá hiện tại: 0.09702 USDT
+RSI: 51.64
+Số dư USDT hiện tại: 0.42750 USDT
+[2025-08-01 09:53:14] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 09:53:14] Lỗi: 'order'
+[2025-08-01 09:54:16] Giá SPK-USDT hiện tại: 0.09695 USDT, chưa mở vị thế. 
+[2025-08-01 09:54:17] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 09:54:18] Lỗi: 'order'
+[2025-08-01 09:55:20] Giá SPK-USDT hiện tại: 0.09686 USDT, chưa mở vị thế. 
+[2025-08-01 09:55:20] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 09:55:21] Lỗi: 'order'
+[2025-08-01 09:56:23] Giá SPK-USDT hiện tại: 0.09695 USDT, chưa mở vị thế. 
+[2025-08-01 09:56:24] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 09:56:25] Lỗi: 'order'
+[2025-08-01 09:57:27] Giá SPK-USDT hiện tại: 0.09713 USDT, chưa mở vị thế. 
+[2025-08-01 09:57:27] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 09:57:28] Lỗi: 'order'
+[2025-08-01 09:58:30] Giá SPK-USDT hiện tại: 0.09703 USDT, chưa mở vị thế. 
+[2025-08-01 09:58:31] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 09:58:31] Lỗi: 'order'
+[2025-08-01 10:00:13] Khởi động chương trình. Số dư USDT ban đầu: 0.43 USDT
+[2025-08-01 10:00:14] ------------Bắt đầu chương trình--------------
+Phân tích xu hướng thị trường SPK-USDT (30m): thị trường đang Sideway (Đi ngang)
+Giá hiện tại: 0.09736 USDT
+RSI: 52.51
+Số dư USDT hiện tại: 0.42750 USDT
+[2025-08-01 10:00:14] Thị trường đi ngang, không đặt lệnh mới.
+[2025-08-01 10:05:27] Giá SPK-USDT hiện tại: 0.09702 USDT, chưa mở vị thế. 
+[2025-08-01 10:05:27] Thị trường đi ngang, không đặt lệnh mới.
+[2025-08-01 10:10:29] Giá SPK-USDT hiện tại: 0.09794 USDT, chưa mở vị thế. 
+[2025-08-01 10:10:30] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 10:10:30] place_order response: {'code': 80001, 'msg': 'Insufficient margin', 'data': {}}
+[2025-08-01 10:10:30] place_order data: {}
+[2025-08-01 10:10:30] Lỗi: 'order'
+[2025-08-01 10:11:32] Giá SPK-USDT hiện tại: 0.09784 USDT, chưa mở vị thế. 
+[2025-08-01 10:11:33] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 10:11:34] place_order response: {'code': 80001, 'msg': 'Insufficient margin', 'data': {}}
+[2025-08-01 10:11:34] place_order data: {}
+[2025-08-01 10:11:34] Lỗi: 'order'
+[2025-08-01 10:12:46] Giá SPK-USDT hiện tại: 0.09772 USDT, chưa mở vị thế. 
+[2025-08-01 10:12:47] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 10:12:47] place_order response: {'code': 80001, 'msg': 'Insufficient margin', 'data': {}}
+[2025-08-01 10:12:47] place_order data: {}
+[2025-08-01 10:12:47] Lỗi: 'order'
+[2025-08-01 10:13:48] Giá SPK-USDT hiện tại: 0.09750 USDT, chưa mở vị thế. 
+[2025-08-01 10:13:49] Thiết lập đòn bẩy x15.0 cho SPK-USDT thành công.
+[2025-08-01 10:13:49] place_order response: {'code': 80001, 'msg': 'Insufficient margin', 'data': {}}
+[2025-08-01 10:13:49] place_order data: {}
+[2025-08-01 10:13:49] Lỗi: 'order'
